@@ -1,2 +1,8 @@
-com\example\Main.class
-com\example\Volador.class
+com\example\interfaces\Magico.class
+com\example\modelo\Arma.class
+com\example\modelo\Dragon.class
+com\example\modelo\Mago.class
+com\example\modelo\Criatura.class
+com\example\simulador\Simulador.class
+com\example\interfaces\Volador.class
+com\example\modelo\Guerrero.class
