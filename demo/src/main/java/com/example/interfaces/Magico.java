@@ -1,8 +1,8 @@
 package com.example.interfaces;
 
-public interface Magico {
+import com.example.modelo.Criatura;
 
-     
-    void lanzarHechizo();
+public interface Magico {
     void aprenderHechizo();
+    void lanzarHechizo(Criatura objetivo);
 }

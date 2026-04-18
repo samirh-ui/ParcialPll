@@ -1,4 +1,4 @@
-package com.example.modelo;
+package com.example;
 
 import com.example.interfaces.Magico;
 import com.example.interfaces.Volador;
